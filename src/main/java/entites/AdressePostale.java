@@ -14,8 +14,19 @@ public class AdressePostale {
         this.nomVille = ville;
     }
 
-    public int getNumeroRue(){return numeroRue;}
-    public String getRueNom(){return rueNom;}
-    public int getPostalCode(){return postalCode;}
-    public String getNomVille(){return nomVille;}
+    public int getNumeroRue() {
+        return numeroRue;
+    }
+
+    public String getRueNom() {
+        return rueNom;
+    }
+
+    public int getPostalCode() {
+        return postalCode;
+    }
+
+    public String getNomVille() {
+        return nomVille;
+    }
 }
