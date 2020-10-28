@@ -1,4 +1,5 @@
 entites/AdressePostale.class
 essais/TestAdressePostale.class
+utils/ConversionNombre.class
 entites/Personne.class
 essais/TestPersonne.class
