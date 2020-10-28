@@ -12,7 +12,20 @@ public class Personne {
         this.adr = adr;
     }
 
+    public void setNom(String nom) {
+        this.nom = nom.toUpperCase();
+    }
+
+    public void setPrenom(String prenom) {
+        this.prenom = prenom;
+    }
+
+    public void setAdr(AdressePostale adr) {
+        this.adr = adr;
+    }
+
     public String getNom() {
+        setNom(nom);
         return nom;
     }
 
