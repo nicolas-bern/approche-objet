@@ -1,5 +1,7 @@
 entites/AdressePostale.class
 essais/TestAdressePostale.class
-utils/ConversionNombre.class
 entites/Personne.class
+fr/diginamic/banque/TestBanque.class
 essais/TestPersonne.class
+fr/diginamic/banque/entites/Compte.class
+utils/ConversionNombre.class
