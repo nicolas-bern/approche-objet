@@ -5,3 +5,4 @@ fr/diginamic/banque/TestBanque.class
 essais/TestPersonne.class
 fr/diginamic/banque/entites/Compte.class
 utils/ConversionNombre.class
+fr/diginamic/banque/entites/CompteTaux.class
