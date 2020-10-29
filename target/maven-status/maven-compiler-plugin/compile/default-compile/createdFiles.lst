@@ -1,8 +1,12 @@
 entites/AdressePostale.class
 essais/TestAdressePostale.class
+fr/diginamic/banque/TestOperation.class
 entites/Personne.class
+fr/diginamic/banque/service/Debit.class
 fr/diginamic/banque/TestBanque.class
 essais/TestPersonne.class
 fr/diginamic/banque/entites/Compte.class
+fr/diginamic/banque/service/Operation.class
 utils/ConversionNombre.class
+fr/diginamic/banque/service/Credit.class
 fr/diginamic/banque/entites/CompteTaux.class
