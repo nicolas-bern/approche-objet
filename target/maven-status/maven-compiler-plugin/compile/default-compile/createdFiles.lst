@@ -5,11 +5,13 @@ geometrie/Cercle.class
 geometrie/ObjetGeometrique.class
 essais/TestPersonne.class
 geometrie/TestObjetGeometrique.class
+sets/Pays.class
 utils/ConversionNombre.class
 fr/diginamic/banque/entites/CompteTaux.class
 listes/TestListeInt.class
 listes/CreationListe.class
 listes/TestListeString.class
+sets/TestSetDouble.class
 entites/Personne.class
 fr/diginamic/banque/service/Debit.class
 geometrie/Rectangle.class
@@ -19,3 +21,4 @@ listes/FusionListe.class
 fr/diginamic/banque/entites/Compte.class
 fr/diginamic/banque/service/Operation.class
 fr/diginamic/banque/service/Credit.class
+sets/TestSetString.class
