@@ -7,10 +7,15 @@ essais/TestPersonne.class
 geometrie/TestObjetGeometrique.class
 utils/ConversionNombre.class
 fr/diginamic/banque/entites/CompteTaux.class
+listes/TestListeInt.class
+listes/CreationListe.class
+listes/TestListeString.class
 entites/Personne.class
 fr/diginamic/banque/service/Debit.class
 geometrie/Rectangle.class
 fr/diginamic/banque/TestBanque.class
+listes/Ville.class
+listes/FusionListe.class
 fr/diginamic/banque/entites/Compte.class
 fr/diginamic/banque/service/Operation.class
 fr/diginamic/banque/service/Credit.class
