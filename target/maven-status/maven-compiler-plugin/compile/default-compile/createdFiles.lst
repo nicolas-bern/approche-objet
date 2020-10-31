@@ -1,4 +1,6 @@
 entites/AdressePostale.class
+maps/CreationEtManipulationMap.class
+maps/MapPays.class
 fr/diginamic/banque/TestOperation.class
 geometrie/Cercle.class
 geometrie/ObjetGeometrique.class
@@ -10,6 +12,7 @@ geometrie/Rectangle.class
 fr/diginamic/banque/TestBanque.class
 listes/Ville.class
 listes/FusionListe.class
+maps/FusionMap.class
 fr/diginamic/dates/TestDates.class
 fr/diginamic/banque/entites/Compte.class
 fr/diginamic/banque/service/Operation.class
@@ -18,6 +21,7 @@ essais/TestAdressePostale.class
 essais/TestPersonne.class
 sets/Pays.class
 utils/ConversionNombre.class
+maps/CreationMap.class
 fr/diginamic/dates/TestCalendar.class
 fr/diginamic/banque/entites/CompteTaux.class
 listes/TestListeInt.class
