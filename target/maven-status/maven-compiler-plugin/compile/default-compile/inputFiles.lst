@@ -5,6 +5,7 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/service/Credit.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/TestOperation.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/geometrie/TestObjetGeometrique.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/testexceptions/TestReflectionUtils.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/TestListeInt.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/geometrie/ObjetGeometrique.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/dates/TestCalendar.java
@@ -17,10 +18,12 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/utils/ConversionNombre.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/CreationListe.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/entites/Personne.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/testexceptions/ReflectionUtils.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/Ville.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/TestBanque.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/sets/TestSetString.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/sets/Pays.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/entites/AdressePostale.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/testexceptions/ReflectionException.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/entites/CompteTaux.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/FusionListe.java
