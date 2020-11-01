@@ -2,7 +2,7 @@ package sets;
 
 import java.util.Objects;
 
-public class Pays {
+public class Pays implements Comparable<Pays> {
 
     private String nom;
     private  int nbHbts;
@@ -48,5 +48,12 @@ public class Pays {
     @Override
     public int hashCode() {
         return Objects.hash(nom, nbHbts, pibHbts);
+    }
+
+
+    // Tri par ordre alphabétique pays
+    @Override
+    public int compareTo(Pays pays) {
+        return this.nom.compareTo(pays.nom);
     }
 }

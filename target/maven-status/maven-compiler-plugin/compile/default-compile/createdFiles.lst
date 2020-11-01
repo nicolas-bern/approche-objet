@@ -28,6 +28,9 @@ listes/TestListeInt.class
 listes/CreationListe.class
 listes/TestListeString.class
 sets/TestSetDouble.class
+tri/ComparatorPibHabitant.class
+tri/TriPays.class
+tri/ComparatorHabitant.class
 fr/diginamic/testexceptions/TestReflectionUtils.class
 fr/diginamic/banque/service/Credit.class
 sets/TestSetString.class
