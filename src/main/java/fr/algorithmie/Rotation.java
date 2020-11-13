@@ -6,13 +6,17 @@ import java.util.Collections;
 public class Rotation {
     public static void main(String[] args) {
 
-        int[] array = {1, 15, -3, 0, 8, 7, 4, -2, 28, 7, -1, 17, 2, 3, 0, 14, -4};
+        int[] array = new int[(int)(Math.random()*21)];
+
+        for (int i = 0; i < array.length; i++) {
+            array[i] = (int)(Math.random()*100);
+        }
 
         boolean isDone = false;
         int temp = 0;
         int temp2 = 0;
 
-        System.out.println(Arrays.toString(array));
+        System.out.println("Avant la rotation : " + Arrays.toString(array));
 
         while (isDone == false){
             for (int i = 0; i < array.length-1; i++) {
@@ -31,6 +35,6 @@ public class Rotation {
             isDone = true;
         }
 
-        System.out.println(Arrays.toString(array));
+        System.out.println("Après la rotation : " + Arrays.toString(array));
     }
 }

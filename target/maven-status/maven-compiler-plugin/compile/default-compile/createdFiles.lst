@@ -42,6 +42,7 @@ listes/TestListeString.class
 sets/TestSetDouble.class
 tri/TriPays.class
 tri/ComparatorHabitant.class
+fr/algorithmie/FabriquerMur.class
 fr/algorithmie/Recherche.class
 fr/diginamic/banque/service/Credit.class
 fr/algorithmie/FirstLast6.class
