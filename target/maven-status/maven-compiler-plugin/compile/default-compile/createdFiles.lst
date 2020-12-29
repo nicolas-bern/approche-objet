@@ -6,7 +6,9 @@ fr/algorithmie/SommeDeTableauxDiff.class
 geometrie/TestObjetGeometrique.class
 fr/algorithmie/AffichageInverse.class
 fr/algorithmie/CalculMoyenne.class
+fr/algorithmie/InteractifTantQue.class
 entites/Personne.class
+fr/algorithmie/InteractifTableMult.class
 geometrie/Rectangle.class
 fr/diginamic/banque/TestBanque.class
 listes/Ville.class
@@ -14,6 +16,7 @@ listes/FusionListe.class
 fr/algorithmie/ComparaisonTableau.class
 fr/diginamic/banque/service/Operation.class
 fr/algorithmie/SommeDeTableaux.class
+fr/algorithmie/InteractifPlusGrand.class
 fr/algorithmie/Rotation.class
 essais/TestPersonne.class
 sets/Pays.class
@@ -25,6 +28,7 @@ fr/diginamic/testexceptions/TestReflectionUtils.class
 sets/TestSetString.class
 entites/AdressePostale.class
 maps/MapPays.class
+fr/algorithmie/InteractifPlusMoins.class
 geometrie/ObjetGeometrique.class
 fr/algorithmie/FirstLast.class
 fr/diginamic/testexceptions/ReflectionException.class
@@ -33,6 +37,7 @@ maps/FusionMap.class
 fr/diginamic/dates/TestDates.class
 fr/diginamic/banque/entites/Compte.class
 fr/diginamic/testexceptions/ReflectionUtils.class
+fr/algorithmie/InteractifSommeArithmetique.class
 essais/TestAdressePostale.class
 fr/algorithmie/TriABulles.class
 maps/CreationMap.class
@@ -40,6 +45,7 @@ fr/diginamic/dates/TestCalendar.class
 listes/CreationListe.class
 listes/TestListeString.class
 sets/TestSetDouble.class
+fr/algorithmie/InteractifChiffresSuivants.class
 tri/TriPays.class
 tri/ComparatorHabitant.class
 fr/algorithmie/FabriquerMur.class

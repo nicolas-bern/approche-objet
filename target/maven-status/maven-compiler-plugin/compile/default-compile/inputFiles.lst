@@ -7,14 +7,17 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/geometrie/TestObjetGeometrique.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/FirstLast.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/SommeDeTableaux.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifChiffresSuivants.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/dates/TestCalendar.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/TriABulles.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifTableMult.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/service/Debit.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/sets/TestSetDouble.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/entites/Compte.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/essais/TestAdressePostale.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/utils/ConversionNombre.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/tri/TriPays.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifTantQue.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/FirstLast6.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/maps/MapPays.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/testexceptions/ReflectionUtils.java
@@ -32,6 +35,7 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/geometrie/Rectangle.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/service/Credit.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/TestOperation.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifPlusGrand.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/testexceptions/TestReflectionUtils.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/maps/CreationMap.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/TestListeInt.java
@@ -40,6 +44,7 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/AffichageInverse.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/service/Operation.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/geometrie/Cercle.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifSommeArithmetique.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/tri/ComparatorHabitant.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/listes/CreationListe.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/CalculMoyenne.java
@@ -48,3 +53,4 @@
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/maps/FusionMap.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/sets/Pays.java
 /Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/diginamic/banque/entites/CompteTaux.java
+/Users/apple/EPSI/B3/JAVA/approche-objet/src/main/java/fr/algorithmie/InteractifPlusMoins.java
