@@ -10,6 +10,6 @@ class SommeTUTest extends SommeTU {
     void somme() {
         int a = 5;
         int b = 2;
-        assertEquals(9, Somme(a, b));
+        assertEquals(7, sommeDeuxEntiers(a, b));
     }
 }
