@@ -2,7 +2,7 @@ package tests;
 
 public class SommeTU {
 
-    public int sommeDeuxEntiers(int a, int b){
+    public static int sommeDeuxEntiers(int a, int b){
         return a + b;
     }
 }
